@@ -1,4 +1,4 @@
-#Upvar Plugin
+# Global variable plugin
 
 This Rundeck plugin puts values into the global context. These values may be static or may come from the result of another workflow step.
 
